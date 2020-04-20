@@ -43,5 +43,5 @@ put all the images in 'results' folder
 
 finally - git add, commit and push changes
 
-## ENJOY & 
-## GOOD LUCK! :D
+### ENJOY & 
+### GOOD LUCK! :D
