@@ -21,8 +21,6 @@ each Set is a list, comprising of rectengles side lengths
     
 ### Output
 For every Set, generate an image showing the most optimal ordering of the set's rectangles
-
-(so for these examples, 5 images should be generated)
 #### BoundingPerimeter/TotalArea - should be minimals
 
 ### Optimal
@@ -37,3 +35,11 @@ Finally, please put readable Text on this image containing data about the set
     * TotalArea (recs area + missing spaces)  
     * Missing Space as % of the Area          -  should be minimal
     * Perimeter to Area Ratio                 -  should be minimal
+
+so for these input examples, <b>5 images should be generated,</b>
+name each image file to match the Set's name,
+put all the images in 'results' folder
+
+finally - git add, commit and push changes
+
+## ENJOY & GOOD LUCK! :D
