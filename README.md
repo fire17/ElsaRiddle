@@ -23,4 +23,8 @@ For every Set, generate an image showing the most optimal ordering of the set's 
 This is measured by Perimeter/TotalArea - should be minimals as possible
 (TotalArea Needs to include the missing areas aswell as the rectangles themselves)
 
-![](images/exampleOutput1.png)
+
+### Optimal
+![](images/optimal.png)
+### Not Optimal
+![](images/not_optimal.png)
