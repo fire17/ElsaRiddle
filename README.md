@@ -20,14 +20,19 @@ each Set is a list, comprising of rectengles side lengths
     }
     
 ### Output
-For every Set, generate an image showing the most optimal ordering of the set's rectangles, i.e:
+For every Set, generate an image showing the most optimal ordering of the set's rectangles
 
-This is measured by Perimeter/TotalArea - should be minimals as possible
-
-(TotalArea Needs to include the missing areas aswell as the rectangles themselves)
-
+(so for these examples, 5 images should be generated)
+#### BoundingPerimeter/TotalArea - should be minimals
 
 ### Optimal
 ![](images/optimal.png)
 ### Not Optimal
 ![](images/not_optimal.png)
+
+Finally, please put Text on this image containing data about the set
+* BoundingPerimeter
+* Area of missing/unfilled/extra space
+* Missing Space % of the Area
+* TotalArea (including missing spaces)
+* Perimeter to Area Ratio
