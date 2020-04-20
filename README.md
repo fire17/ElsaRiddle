@@ -30,9 +30,10 @@ For every Set, generate an image showing the most optimal ordering of the set's 
 ### Not Optimal
 ![](images/not_optimal.png)
 
-Finally, please put Text on this image containing data about the set
-* BoundingPerimeter
-* Area of missing/unfilled/extra space
-* Missing Space % of the Area
-* TotalArea (including missing spaces)
-* Perimeter to Area Ratio
+Finally, please put readable Text on this image containing data about the set
+
+    * Length of BoundingPerimeter             
+    * Area of missing/unfilled/extra space    -  should be minimal
+    * TotalArea (recs area + missing spaces)  
+    * Missing Space as % of the Area          -  should be minimal
+    * Perimeter to Area Ratio                 -  should be minimal
