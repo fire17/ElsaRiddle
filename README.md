@@ -37,7 +37,7 @@ Finally, please put readable Text on this image containing data about the set
     * Perimeter to Area Ratio                 -  should be minimal
 
 so for these input examples, <b>5 images should be generated,</b>
-name each image file to match the Set's name,
+name each image file to match the Set's name
 
 put all the images in 'results' folder
 
