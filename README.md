@@ -24,9 +24,9 @@ For every Set, generate an image showing the most optimal ordering of the set's 
 #### BoundingPerimeter/TotalArea - should be minimals
 
 ### Optimal
-![](images/optimal.png)
+![](img/optimal.png)
 ### Not Optimal
-![](images/not_optimal.png)
+![](img/not_optimal.png)
 
 Finally, please put readable Text on this image containing data about the set
 
