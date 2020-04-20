@@ -8,6 +8,7 @@ Write and Implement a general algorithm that can be used for packing rectangles 
 
 ### Input:
 you'll get a json with a couple of Sets, containing N rectangels with random side lengths i.e:
+
 each Set is a list, comprising of rectengles side lengths
 
     {
@@ -20,7 +21,9 @@ each Set is a list, comprising of rectengles side lengths
     
 ### Output
 For every Set, generate an image showing the most optimal ordering of the set's rectangles, i.e:
+
 This is measured by Perimeter/TotalArea - should be minimals as possible
+
 (TotalArea Needs to include the missing areas aswell as the rectangles themselves)
 
 
